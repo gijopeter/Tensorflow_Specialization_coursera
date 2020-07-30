@@ -1,6 +1,6 @@
 # Tensorflow Specialization coursera
 
-[TesnorFlow specialization link in Coursera](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
+[TesnorFlow specialization](https://www.coursera.org/specializations/tensorflow-in-practice#courses)
 
 Repository conatins code files for Coursera Tensorflow specialization. 
 It is highly recommended to have good theorectical understanding of various kinds Neural network architectures(Feed forward, CNN, RNN) before proceeding with specialization. 
