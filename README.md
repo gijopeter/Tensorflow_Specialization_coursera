@@ -10,8 +10,11 @@ It is highly recommended to have good theorectical understanding of various kind
 ## Course certificates
 
 [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/4GZPCSHQH7AH)
+
 [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/PVNCQ2YSCJGX)
+
 [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/SV4M2PGNG3FE)
+
 [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/T9N3BVA627UF)
 
 ## Specialization cetificate
